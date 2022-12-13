@@ -1,0 +1,25 @@
++1. Открытие фрагмента
++2. Заполнить RecyclerView - holder,adapter,viewmodel+ 
+(пока загружаеться из drawable|)
++3. Поиск изображений в internal storage - model
++4. Загрузка найденных изображений в RecyclerView
++5. Передача выбранного изображения во ViewImage
+6. Редактирование выбранного изображения после вставки
+
+
+Guides
+https://developer.android.com/topic/performance/graphics/load-bitmap
+https://stackoverflow.com/questions/31154777/how-to-read-image-from-internal-memory-in-android
+https://stackoverflow.com/questions/35607907/android-retrieve-all-image-directories/35608181
+https://stackoverflow.com/questions/30777023/displaying-all-images-from-device-in-my-app
+https://developer.android.com/training/data-storage/shared/media
+
+https://developer.android.com/guide/fragments/communicate
+
+
+Image Cropper library
+
+https://github.com/burhanrashid52/PhotoEditor
+https://github.com/iamutkarshtiwari/Ananas
+https://github.com/ArthurHub/Android-Image-Cropper
+
